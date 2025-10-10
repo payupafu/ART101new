@@ -1,0 +1,11 @@
+body {
+    background-image: url('images/mono.jpg');
+h1, h2, h3 {color:rgb(7, 38, 105);}
+
+p, li {
+    color:#11412a;
+    background-color:rgb(211, 226, 248);
+    margin: 15px;
+    padding-top: 5px;
+}
+}
